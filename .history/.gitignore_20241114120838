@@ -1,0 +1,34 @@
+# Ignore system and environment files
+.DS_Store
+.vscode/
+*.pyc
+__pycache__/
+
+# Ignore data files and logs
+.history/
+*.parquet
+*.csv
+*.env
+.env 
+*.png
+*.pdf
+*.xlsx
+*.jpg
+*.json
+*.md
+*.py
+*.sh
+*.yaml
+*.yml
+*.pdf
+*.png
+*.ipynb_checkpoints
+
+
+# Ignore all data folders except necessary code files
+O1_materials/
+O2_activities/assignments/assignment_2.ipynb
+O2_activities/assignments/assignment_3.ipynb
+05_src/
+05_src/data/
+07_logs/

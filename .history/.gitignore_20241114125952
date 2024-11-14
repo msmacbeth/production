@@ -1,0 +1,34 @@
+# System and Editor Files
+.DS_Store
+.vscode/
+*/__pycache__/*
+
+# Source Data Folders (assuming these are all unnecessary for PR)
+05_src/data/adult/*
+05_src/data/artifacts/*
+05_src/data/credit/*
+05_src/data/features/*
+05_src/data/prices/*
+05_src/data/temp/*
+05_src/data/zipped/*
+05_src/db/postgres_data/*
+07_logs/*
+**/07_logs/*
+
+# File Extensions to Ignore
+*.parquet
+*.env
+*.py
+*.dotfile
+*.ipynb_checkpoints/
+*.csv
+*.jpg
+*.json
+*.md
+*.pdf
+*.png
+*.sh
+*.xlsx
+*.yaml
+*.yml
+
