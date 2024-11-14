@@ -13,3 +13,4 @@
 07_logs/*
 **/07_logs/*
 *.parquet
+.env
