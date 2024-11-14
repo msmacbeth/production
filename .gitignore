@@ -20,5 +20,14 @@
 *.parquet
 *.env
 *.py
-.dotfile
-
+*.dotfile
+*.md
+*.pdf
+*.png
+*.sh
+*.xlsx
+*.yaml
+*.yml 
+*.csv
+*.pdf
+*.png
