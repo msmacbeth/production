@@ -9,9 +9,18 @@ __pycache__/
 *.parquet
 *.csv
 *.env
+.env 
 *.png
 *.pdf
 *.xlsx
+*.jpg
+*.json
+*.md
+*.py
+*.sh
+*.yaml
+*.yml
+
 
 # Ignore all data folders except necessary code files
 05_src/data/
