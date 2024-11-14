@@ -12,15 +12,23 @@
 05_src/data/temp/*
 05_src/data/zipped/*
 05_src/db/postgres_data/*
+05_src/data/adult/*
+05_src/.env
+05_src/data/price_data/*.parquet
+05_src/data/features_data/*.parquet
+
 07_logs/*
 **/07_logs/*
 
 # File Extensions to Ignore
 *.parquet
 *.env
+*.history/
 *.py
 *.dotfile
+*.ipynb 
 *.ipynb_checkpoints/
+*.dotfile
 *.csv
 *.jpg
 *.json
