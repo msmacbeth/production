@@ -12,3 +12,13 @@
 05_src/db/postgres_data/*
 07_logs/*
 **/07_logs/*
+# Additional ignore rules
+.history/
+05_src/.env
+05_src/data/price_data/*.parquet
+05_src/data/features_data/*.parquet
+*.parquet
+*.env
+*.py
+.dotfile
+
