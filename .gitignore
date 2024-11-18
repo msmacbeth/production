@@ -1,6 +1,9 @@
+#System and Editor files
 .DS_Store
 .vscode/
 */__pycache__/*
+
+# Source Data 
 05_src/data/adult/*
 05_src/data/artifacts/*
 05_src/data/credit/*
@@ -12,10 +15,25 @@
 05_src/db/postgres_data/*
 07_logs/*
 **/07_logs/*
-.history/*
+
+# File extensions
+*.history/
 Kaggle/*
-05_src/data/*
 *.parquet
 *.env
+*.py
+*.dotfile
+*.ipynb_checkpoints/
+*.csv
+*.jpg
+*.json
+*.md
+*.pdf
+*.png
+*.sh
+*.xlsx
+*.yaml
+*.yml
+
 
 
